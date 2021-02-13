@@ -1,3 +1,10 @@
 első sor
 
 második sor lokális
+
+ez egy lokális fontos
+ez lokális
+nem fontos lokális
+lokális
+
+lenti újra
