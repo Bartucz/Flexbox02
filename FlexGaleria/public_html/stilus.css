@@ -29,3 +29,27 @@ section {
     flex: 1 0 25%;
     
 }
+
+footer nav{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+nav{
+    display: flex;
+    justify-content:space-between;
+}
+nav #felso{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+nav a {
+    
+    text-decoration: none;
+    padding: 5px;
+}
