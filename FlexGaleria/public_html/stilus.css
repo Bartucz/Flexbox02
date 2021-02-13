@@ -25,6 +25,11 @@ article{
     
 }
 
+#galeria{
+    
+    
+}
+
 section {
     flex: 1 0 25%;
     
@@ -33,7 +38,9 @@ section {
     flex: 1 0 20%;
     
 }
-
+#galeria h1{
+    background: red;
+}
 
 footer nav{
     
