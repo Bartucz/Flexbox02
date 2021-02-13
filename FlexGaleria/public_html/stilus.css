@@ -4,13 +4,13 @@ body,header,main, section, footer{
     border: 1px solid grey;
     box-sizing: border-box;
     padding: 10px;
-    
+    color: white;
 }
 
 main {
     margin: auto    ;
     padding: 10px;
-    
+    background: black;
     
     
     
@@ -29,6 +29,11 @@ section {
     flex: 1 0 25%;
     
 }
+#galeria section {
+    flex: 1 0 20%;
+    
+}
+
 
 footer nav{
     
@@ -52,4 +57,53 @@ nav a {
     
     text-decoration: none;
     padding: 5px;
+}
+section img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:900px){
+    
+section {
+    flex: 33.3333%;
+    
+}
+    
+    
+    
+}
+
+
+@media screen and (max-width:600px){
+    
+section {
+    flex: auto;
+    
+}
+    
+nav{
+   
+    flex-direction:column;
+}
+nav #felso{
+    
+   
+    flex-direction: column-reverse;
+    
+}
+
+
+    
+    
 }
