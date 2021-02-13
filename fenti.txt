@@ -1,3 +1,11 @@
 első sor
 
 második sor lokális
+
+ez egy fontos módosítás
+
+ez is fontos és jó
+
+ez nam fontos
+
+ez elhagyható
