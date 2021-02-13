@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body,header,main, section, footer{
+    border: 1px solid grey;
+    
+}
+
+main {
+    margin: auto    ;
+    padding: 10px;
+    
+    
+    
+    
+}
