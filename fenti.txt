@@ -2,9 +2,19 @@ első sor
 
 második sor lokális
 
+
 ez egy lokális fontos
 ez lokális
 nem fontos lokális
 lokális
-
+ez egy fontos módosítás
 lenti újra
+
+ez egy fontos módosítás
+
+ez is fontos és jó
+
+ez nam fontos
+
+ez elhagyható
+
